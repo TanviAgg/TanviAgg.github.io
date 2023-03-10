@@ -15,16 +15,39 @@ permalink: /about/
 
 ### Language Understanding and Reasoning Lab, Stony Brook University
 *Student Reseacher (Aug 2021 - Present)* <br>
+- __Complex reasoning__: Studying complex reasoning and generalization of compositional tasks in Natural Language Processing by prompting LLMs in zero-shot and few-shot settings. 
+- __Commonsense reasoning for answering why-questions__: different aspects of incorporating external knowledge, including how to extract the most relevant information, how much knowledge to inject and in what form, and when to add it. Contributed towards building the model for extracting the most relevant relations. 
+- __Cross-modal knowledge distillation__: Developed a cross-modal distillation strategy to improve over the performance of vision-only models for action anticipation.
 
-- __Programmatic Rule Engine.__ Project owner and lead developer of Media.net’s real-time rule based ad targeting system which enables programmatic targeting of ad inventory for Media.net’s demand partners. Our systems are deployed in data centres across the globe, and operate at high scale within tight latency and QoS bounds.
+### NetApp Inc., US
+*Software Engineering Intern - StorageGRID (May 2022 - Dec 2022)* <br>
+- Supported metric conversion into different units for storage related metrics and white-labeling in the
+StorageGRID management tool using Angular.
+- This was a part of the interface overhaul to provide improved customer experience.
 
-- __Client-side Header Bidding through Prebid.js.__ Responsible for writing clean and efficient Javascript enabling Media.net to bid on ad-inventory through the Prebid.js Header Bidding library.
+### Swiggy, India
+*Software Engineer II - Revenue and Growth (Jul 2019 - Aug 2021)* <br>
+- Worked on multiple Go, Java, and Python backend microservices based on REST, gRPC framework with AWS
+cloud infrastructure.
+- Integrated AWS localstack cloud library in the local testing pipeline to reduce developer effort by 3 hours per
+feature deployment, and improve functional and unit test coverage by 35%.
+- Added middleware for error handling, system recovery and logging metrics to monitor services.
+- Led the design and deployment of several features on the discounting platform, including rate-limiting, tiered
+loyalty program (Swiggy Super) and a ranking system to show relevant offers based on consumer behavior
+patterns.
+- Worked on Named Entity Recognition for food items in code-mixed chat data using Deep learning, under the
+Applied Research team.
 
-- __Building out Media.net’s Real Time Bidding (RTB) platform.__ Helping publishers maximize revenue by auctioning ad-inventory in real time. Maintaining a highly efficient bidding platform staged at multiple trading locations across the globe, while ensuring high QPS and low latency.
+### Morgan Stanley., India
+*Technical Analyst Intern - Wealth Management (Jan 2019 - Jun 2019)* <br>
+- Implemented the server-side API for W3C’s Web Authentication specification for public key cryptography based
+secure-key authenticators using C#.
+- Integrated secure-key authentication with the existing multi-factor authentication system.
 
-- __REARC working group (R&D).__ Member of an internal team researching and publishing a proposal to preserve the efficacy of the ad-tech ecosystem without compromising on user privacy.
-
-- __Ad Slot Analytics.__ Enabling better ads by analysing ad-inventory on the web page across various metrics, and using this data to make intelligent bidding decisions which directly impact revenue.
+### Microsoft, India
+*Software Engineering Intern - Office 365 (May 2018 - Jul 2018)* <br>
+- Created an on-boarding tool to migrate Data Loss Prevention Policies from compete platforms to Office 365 DLP
+using C# and XSLT.
 
 ## Education
 - __Stony Brook University, New York__ *(2021 - Present)* <br>
@@ -46,44 +69,56 @@ Yash Lal, Niket Tandon, Tanvi Aggarwal, Horace Liu, Nathaniel Chambers, Raymond 
 - __Softmax Coaxial Gaussian Track Code for Fingerprint Indexing__ <br>
 Geetika Arora, Tanvi Aggarwal, Kamlesh Tiwari <br>
 *ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2019)*
-## Projects
 
-- __Driver Analysis Using Telematic Data__ <br>
-An application to model and successfully fingerprint a driver using data derived from a GPS trajectory dataset. <br>
-Presented a paper titled *Driver Analysis Using Telematic Data* at the IEEE ICIIECS Conference (Coimbatore, India).
+## Projects and Open Source Contributions
+- __Complex reasoning in NLP__ - Studying compositional generalization of NLP tasks by prompting LLMs in zero-shot
+and few-shot settings as part of MS thesis in Language Understanding and Reasoning Lab.
 
-## Open source contributions
+- __Approximate Pattern Matching using Seed-and-extend heuristic__ - Designed and implemented an optimized
+dynamic programming algorithm for approximate pattern matching in text strings using Python.
 
-- __Prebid.js__ - Open source Header Bidding — *[https://github.com/prebid/Prebid.js](https://github.com/prebid/Prebid.js)* <br>
-Contributed to Prebid.js, an open source Header Bidding library.
+- __DNS resolver with added support for DNSSEC__ - Created a command line tool for a recursive DNS resolver to
+querry different record types with support for DNSSEC protocol, using dnspython library.
+
+- __Mininet__ - Implemented static routes and dynamic routing (RIP) on a network topology configured using Mininet
+with AWS EC2.
+
+- __Picolo: A Smart Assistant__ - Designed a system to improve the user interaction experience in online meetings that
+leverages OCR to extract text from images in real time. Implemented and evaluated a web-browser extension
+and desktop application interface.
 
 
-- __K0s__ - Zero Friction Kubernetes — *[https://github.com/k0sproject/k0s](https://github.com/k0sproject/k0s)*
+[comment]: <> (## Open source contributions)
+
+[comment]: <> (- __Prebid.js__ - Open source Header Bidding — *[https://github.com/prebid/Prebid.js]&#40;https://github.com/prebid/Prebid.js&#41;* <br>)
+
+[comment]: <> (Contributed to Prebid.js, an open source Header Bidding library.)
 
 
-- __IndraDB__ - A graph database in Rust — *[https://github.com/indradb/indradb](https://github.com/indradb/indradb)*
+[comment]: <> (- __K0s__ - Zero Friction Kubernetes — *[https://github.com/k0sproject/k0s]&#40;https://github.com/k0sproject/k0s&#41;*)
 
-## Volunteer Work
-- __Low-cost computer systems for underprivileged students__ *(2018)* <br>
-Partnered with Vasundhara Charitable Trust, an NGO, to provide schools in the Tarapur-Dahanu area with low-cost Raspberry-Pi powered computers. <br>
-Configured these devices with Gcompris (an open-source learning platform), to enable computerized learning for students, and enable teachers to evaluate and review coursework in a single centralized repository.
 
-## Programming Languages
-- Go
-- Python
-- Java
-- C# (.NET)
-- Javascript
-- C/C++
+[comment]: <> (- __IndraDB__ - A graph database in Rust — *[https://github.com/indradb/indradb]&#40;https://github.com/indradb/indradb&#41;*)
 
-## Tools
-- Cloud Platforms (AWS)
-- Containerization and Orchestration (Docker, DCOS/Nomad, CI/CD)
-- Linux
-- Stream processing architectures (Kafka, Apache Storm + Trident)
-- Databases & Storage (SQL server, Redis, Aerospike)
+[comment]: <> (## Volunteer Work)
 
-## Awards			
-- 1st place, Codeshaastra Hackathon (2014)
-- Runners-up,  Axis Bank Hackathon (2016) 
-- Qualifiers, ICICI bank Appathon (2016)
+[comment]: <> (- __Low-cost computer systems for underprivileged students__ *&#40;2018&#41;* <br>)
+
+[comment]: <> (Partnered with Vasundhara Charitable Trust, an NGO, to provide schools in the Tarapur-Dahanu area with low-cost Raspberry-Pi powered computers. <br>)
+
+[comment]: <> (Configured these devices with Gcompris &#40;an open-source learning platform&#41;, to enable computerized learning for students, and enable teachers to evaluate and review coursework in a single centralized repository.)
+
+## Skills
+### Programming Languages 
+Python, Go, C#, C/C++, Java, XSLT, HTML, Javascript, Ruby, SQL, Angular
+### Technical Concepts
+Software development, Machine Learning, Databases, Algorithms
+### Tools and Frameworks
+AWS (DynamoDB, EC2, DAX, Lambda), ElasticSearch, Redis, Git, Docker, Prometheus, Grafana, LocalStack, Jenkins, Snowflake, REST, gRPC
+### Deep learning models and libraries
+Pytorch, Tensorflow, Keras, NLTK, Pandas, NumPy, Transformers, LLMs, GPT-3, ChatGPT, Codex
+### Programming Languages
+Go, Python, Java, C# (.NET), Javascript, /C++
+
+## Academic Achievements			
+- Awarded the BITS Pilani Merit Scholarship for academic year 2015 - 2016 (awarded to top 3% of students).
