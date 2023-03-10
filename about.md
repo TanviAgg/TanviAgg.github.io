@@ -117,8 +117,6 @@ Software development, Machine Learning, Databases, Algorithms
 AWS (DynamoDB, EC2, DAX, Lambda), ElasticSearch, Redis, Git, Docker, Prometheus, Grafana, LocalStack, Jenkins, Snowflake, REST, gRPC
 ### Deep learning models and libraries
 Pytorch, Tensorflow, Keras, NLTK, Pandas, NumPy, Transformers, LLMs, GPT-3, ChatGPT, Codex
-### Programming Languages
-Go, Python, Java, C# (.NET), Javascript, /C++
 
 ## Academic Achievements			
 - Awarded the BITS Pilani Merit Scholarship for academic year 2015 - 2016 (awarded to top 3% of students).
