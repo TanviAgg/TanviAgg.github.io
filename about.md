@@ -38,7 +38,7 @@ patterns.
 - Worked on Named Entity Recognition for food items in code-mixed chat data using Deep learning, under the
 Applied Research team.
 
-### Morgan Stanley., India
+### Morgan Stanley, India
 *Technical Analyst Intern - Wealth Management (Jan 2019 - Jun 2019)* <br>
 - Implemented the server-side API for W3C’s Web Authentication specification for public key cryptography based
 secure-key authenticators using C#.
